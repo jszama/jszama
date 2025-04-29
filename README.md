@@ -24,6 +24,11 @@ I have a huge passion for building apps that provide solutions to everyday probl
   - decrease resource usage while in background
   - UI/UX changes
 
+##### Holiday Booking AI Agent (Google ADK)
+  - designing the workflow of the agent
+  - designing the UI
+  - learning about AI Agents
+
 ##### Personal Portfolio Website
   - designing the UI of the website
   - writing biography and project descriptions
