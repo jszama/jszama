@@ -1,5 +1,6 @@
 # Hey 👋 My name is Jakub Szamotulski!
-## 💫 About Me  🇵🇱 🛬 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+## 💫 About Me  ![Poland](https://flagcdn.com/w20/pl.png) 🛬 ![Scotland](https://flagcdn.com/w20/gb-sct.png)
+
 ### Fullstack Developer (in the making 🙏) | Software Engineering @ University of Strathclyde
 _Lover of knowledge, looking to constantly keep learning and become the best version of myself._
 
@@ -24,10 +25,10 @@ I have a huge passion for building apps that provide solutions to everyday probl
   - decrease resource usage while in background
   - UI/UX changes
 
-##### Holiday Booking AI Agent (Google ADK)
-  - designing the workflow of the agent
+##### Mental Health Journaling App
   - designing the UI
-  - learning about AI Agents
+  - learning about system design
+  - designing backend
 
 ##### Personal Portfolio Website
   - designing the UI of the website
