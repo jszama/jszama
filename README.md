@@ -33,10 +33,9 @@ I have a huge passion for building apps that provide solutions to everyday probl
   - designing backend
 
 #### 🌱 I’m currently learning
-- Next.js 15
-- UI/UX
-- Artificial Intelligence
+- Supabase
 - Systems Design
+- Testing
 
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css,cs,java,py)
