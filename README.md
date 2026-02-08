@@ -42,4 +42,4 @@ I have a huge passion for building apps that provide solutions to everyday probl
 ### Frameworks & Libraries
 ![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,express,nodejs,electron)
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,mongodb,aws,docker)
+![Tools](https://skillicons.dev/icons?i=git,github,mongodb,aws,docker,supabase)
